@@ -1,4 +1,4 @@
 # WebProgramming
 
 Repository for Web Programming assignments. 
-CSc 4270 - Georgia State University
+CSc 4370 - Georgia State University
